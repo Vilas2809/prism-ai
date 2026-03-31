@@ -4,7 +4,7 @@ An AI-powered resume analysis platform that scores resumes, matches them against
 
 ## 🌐 Live Demo
 
-**Frontend:** http://talentmatchai-vilas2809s-projects.vercel.app
+**Frontend:** https://prism-ai-vilas2809s-projects.vercel.app
 
 ## ✨ Features
 
@@ -98,7 +98,7 @@ ai-resume-roaster/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Vilas2809/ai-resume-roaster.git
+git clone https://github.com/Vilas2809/prism-ai.git
 cd ai-resume-roaster
 ```
 
@@ -141,7 +141,7 @@ VITE_API_BASE_URL=http://127.0.0.1:8000
 
 ### Frontend
 Deployed on Vercel:
-- https://talentmatch.ai-iota.vercel.app
+- https://prism-ai-vilas2809s-projects.vercel.app
 
 ### Backend
 Deployed on Render.
@@ -196,7 +196,7 @@ VITE_API_BASE_URL=https://your-render-backend-url.onrender.com
 
 ## 👨‍💻 Author
 
-**Vilas Srirama Reddy**
+**Vilas Reddy**
 
 GitHub: https://github.com/Vilas2809
 
