@@ -141,7 +141,7 @@ VITE_API_BASE_URL=http://127.0.0.1:8000
 
 ### Frontend
 Deployed on Vercel:
-- https://ai-resume-roaster-iota.vercel.app
+- https://talentmatch.ai-iota.vercel.app
 
 ### Backend
 Deployed on Render.
