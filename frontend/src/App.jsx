@@ -133,7 +133,7 @@ function App() {
       <div className="container">
         <h1>🔥 AI Resume Roaster</h1>
         <p className="subtitle">
-          Brutally honest. Slightly funny. Actually helpful.
+          Actionable insights. Smart Feedback. Real career impact.
         </p>
 
         <input
