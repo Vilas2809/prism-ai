@@ -98,7 +98,7 @@ TalentScope-ai/
 
 ```bash
 git clone https://github.com/Vilas2809/talentscope-ai.git
-cd ai-resume-roaster
+cd TalentScope-ai
 ```
 
 ### 2. Backend setup
